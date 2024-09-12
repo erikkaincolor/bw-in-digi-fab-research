@@ -1,7 +1,8 @@
 # Site settings
 title: "Black Women in Digital Fabrication-Craft Fund Research Grant 2025"
 description: "Who are the Black women and young girls forging our digitally handmade future, who are their instructors and how do we continue to leverage the craft through textiles?"
-baseurl: "" # The subpath of your site (e.g., /blog), leave blank for root.
+domain: bw-in-digi-fab-research.github.io   
+baseurl: /bw-in-digi-fab-research/ # The subpath of your site (e.g., /blog), leave blank for root.
 url: "https://erikkaincolor.github.io/bw-in-digi-fab-research" # Your site's URL.
 
 # Build settings
