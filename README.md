@@ -1,2 +1,2 @@
 # bw-in-digi-fab-research
-Black Women in Digital Fabrication
+BW in Digital Fabrication
